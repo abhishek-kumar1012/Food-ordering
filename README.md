@@ -99,8 +99,8 @@ Start the Backend server
 * [JWT-Authentication](https://jwt.io/introduction)
 
 ## Demo
-User Panel: https://food-delivery-frontend-s2l9.onrender.com/
-Admin Panel: https://food-delivery-admin-wrme.onrender.com/
+https://healthybitess.netlify.app/
+
 
 ## Deployment
 
